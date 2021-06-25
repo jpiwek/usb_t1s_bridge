@@ -1,36 +1,37 @@
-# USB-To-T1S Bridge
-USB 2.0 to Single Pair Ethernet 10Base-T1S Bridge
+# Fast Track to Single-Pair-Ethernet enabled products with Arrow and Phoenix Contact
+Single-Pair-Ethernet: USB-To-10Base-T1S Kit
 
 **USB-To-T1S Bridge** - [Link](https://)
 ====================================================
 
 **Story**
 ------------------------
-Makers developed a secure platform during COVID-19 period to support communities and device manufacturers on re-thinking security strategies for their future product roadmap. This platform design demonstrates how to protect digital assets, firmware, intellectual property and keys by design. 
+Arrow along with key partners in this sector, have developed a unique plug and play USB-To-Single Pair Ethernet Evaluation Kit. This kit is suitable for end applications such as Embedded PCs, Single Board Computers as well as Industrial applications to communicate SPE (10Base-T1S) and for fast evaluation of 10Base-T1S Multidrop Technology.
+10BASE-T1S refers to a 10 Mbit/s shared connection. It uses half-duplex data transmissions. Up to 50 nodes, depending on the environment, can be connected with a minimum 25m bus length. The technology is being developed as the IEEE 802.3cg standard, which envisions low power physical layer transceivers and a bus line connection without collisions
 
-  - *MCU*: SAML11 - CortexM23 with TrustZone Hypervisor [View PSA certificate](https://www.psacertified.org/products/saml11/)
-  - *Secure Element*: JIL rated ATECC608A Trust & Go with pre-provisioned certificate chain, keys
-  - *Programmer / Debugger*: Microchip low cost SNAP / PicKIT4
-  - *Expansion Connectors*: Mikroelektronika Click / Microchip Xplained
-  - *Interfaces*: FTDI USB to UART Bridge for debugging and powering the board
-  - *Others*: 2x LEDs and 2x push button
+Kit Deliverables:
+  - *10Base-T1S Phy*: LAN867x (https://www.psacertified.org/products/saml11/)
+  - *LAN9500AI*: USB-To-MII Bridge (https://www.psacertified.org/products/saml11/)
+  - *IP20*: Phoenix Contact IEC63171-2 Connector
+  - 1m SPE cable 1207744
   
-![USB-To-T1S Bridge](images/trustify.png)
- 
- **Target Markets**
+![USB-To-T1S Bridge](images/usb_t1s_1_0.png)
+
+**Reliable and secure sensor-to-cloud communication **
 ------------------------
-  - Smart Sensors
-  - Medical 
-  - Access Control
-  - Touch & HMI
-  - Portable applications
-  - Crypto Wallets
+SPE enables continuous IP communication between server and cloud as well as power supply in complex IIoT solutions. SPE represents the next milestone in network technology and will revolutionize the market. 
+Single Pair Ethernet is the extension of Ethernet technology into sensor technology. SPE 10Base-T1S technology is compact, flexible, and enables edge nodes to be connected using multidrop/bus topology which eliminates expensive industrial infrastructure like switches. SPE allows the extension of existing installations and supports consistent communication based on the Ethernet protocol. 
+
+ **Target Markets / Use-Cases**
+------------------------
+  - Industrial Automation (Replace FieldBus, RS485, EtherCAT, Ethernet point-to-point)
+  - Building Automation (Replace legacy “home grown” connections, Ethernet point-to-point, Lighting, Intercom, A/C, Window Shades, Elevators, etc.)
 
 **Examples**
 ------------------------
 All examples are built with Microchip MPLAB-X & Harmony v3. Those give you a good starting point for your own projects.
-  - "Board Test": [Go to example](https://github.com/jpiwek/trustify/tree/master/software/examples/Board_Test)
-  - ATECC608 Secure Element Certificate Chain Verfy - This example show you the methods and the procedure to read and to verify the TNG (Trust and Go - preporvisioned secure element) certificate in the secure element: [Go to example](https://github.com/jpiwek/trustify/tree/master/software/examples/Trust_and_Go)
+  - "Getting Started for Windows": [Go to example](https://github.com/jpiwek/trustify/tree/master/software/examples/Board_Test)
+  - "Getting Started for Linux": Coming soon
 
 To setup the toolchains, please go [here](https://github.com/jpiwek/trustify/blob/master/software/examples/README.md)
 
