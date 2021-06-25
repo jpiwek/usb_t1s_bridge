@@ -10,12 +10,12 @@ Arrow along with key partners in this sector, have developed a unique plug and p
 10BASE-T1S refers to a 10 Mbit/s shared connection. It uses half-duplex data transmissions. Up to 50 nodes, depending on the environment, can be connected with a minimum 25m bus length. The technology is being developed as the IEEE 802.3cg standard, which envisions low power physical layer transceivers and a bus line connection without collisions
 
 Kit Deliverables:
-  - *10Base-T1S Phy*: LAN867x (https://www.psacertified.org/products/saml11/)
-  - *LAN9500AI*: USB-To-MII Bridge (https://www.psacertified.org/products/saml11/)
-  - *IP20*: Phoenix Contact IEC63171-2 Connector
+  - *10Base-T1S Phy*: LAN867x (doc/00003919.pdf)
+  - *LAN9500AI*: Single-chip, Hi-Speed USB 2.0 to 10/100 Ethernet controller (https://www.microchip.com/wwwproducts/en/LAN9500A#additional-features)
+  - *IP20*: Phoenix Contact IEC63171-2 Connector (https://www.phoenixcontact.com/online/portal/at?1dmy&urile=wcm%3Apath%3A/atde/web/main/products/technology_pages/subcategory_pages/Single_pair_ethernet/52214e58-5f89-4493-b2fa-96873d7e97c3)
   - 1m SPE cable 1207744
   
-![USB-To-T1S Bridge](images/usb_t1s_1_0.png)
+![USB-To-T1S Bridge](images/onepager.png)
 
 **Reliable and secure sensor-to-cloud communication **
 ------------------------
