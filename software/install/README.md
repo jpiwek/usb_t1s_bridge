@@ -12,7 +12,7 @@ This folder contains the information about the software for the USB-To-10Base-T1
 2. To install the driver right click on "net9500-x64-n650f.inf" and "Install" [Install](images/win_install_1.png)
 
 
-  ## [Installtion Windows](https://github.com/jpiwek/trustify/tree/master/software/example/linux_install)
+  ## [Installtion Linux](https://github.com/jpiwek/trustify/tree/master/software/example/linux_install)
 
 Lorem Ipsum
 
