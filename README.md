@@ -1,5 +1,5 @@
-# Fast Track to Single-Pair-Ethernet enabled products with Arrow and Phoenix Contact
-Product: USB-To-10Base-T1S Kit
+# Fast Track to Single-Pair-Ethernet enabled products with Arrow, Microchiop & Phoenix Contact
+Product: USB-To-10Base-T1S Kit - (Manufactured by Trenz Elektronik)
 
 **USB-To-T1S Bridge** - [Link](https://)
 ====================================================
@@ -12,9 +12,9 @@ Arrow along with key partners in this sector, have developed a unique plug and p
 ![USB-To-T1S Bridge](images/onepager.png)
 
 Kit Deliverables:
-  - *[LAN867x0Base-T1S Phy]*:  (doc/00003919.pdf)
-  - *[LAN9500AI: Single-chip, Hi-Speed USB 2.0 to 10/100 Ethernet controller]*:(https://www.microchip.com/wwwproducts/en/LAN9500A#additional-features)
-  - *IP20*: Phoenix Contact IEC63171-2 Connector (https://www.phoenixcontact.com/online/portal/at?1dmy&urile=wcm%3Apath%3A/atde/web/main/products/technology_pages/subcategory_pages/Single_pair_ethernet/52214e58-5f89-4493-b2fa-96873d7e97c3)
+  - [*LAN867x: 10Base-T1S Phy*](doc/00003919.pdf)
+  - [*LAN9500AI: Single-chip, Hi-Speed USB 2.0 to 10/100 Ethernet controller*](https://www.microchip.com/wwwproducts/en/LAN9500A#additional-features)
+  - [*IP20*: Phoenix Contact IEC63171-2 Connector](https://www.phoenixcontact.com/online/portal/at?1dmy&urile=wcm%3Apath%3A/atde/web/main/products/technology_pages/subcategory_pages/Single_pair_ethernet/52214e58-5f89-4493-b2fa-96873d7e97c3)
   - 1m SPE cable 1207744
   
 
