@@ -13,7 +13,7 @@ This folder contains the information about the software for the USB-To-10Base-T1
 
 ![](images/win_install_1.png)
 
-3. Go to Control Panel -> Network and Sharing Center to configure the LAN876x
+3. Go to Control Panel -> Network and Internet ->Network Connections to configure the LAN876x Phy
 ![](images/win_install_2.png)
 
 * if the driver was in Step 1 was properly installed, a new "10Base-T1S USB Adaptor" Ethernet interface is listed  
