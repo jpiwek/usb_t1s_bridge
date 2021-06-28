@@ -4,7 +4,7 @@
 # Software and Driver Installtion
 
 ## Introduction
-This folder contains the information about the software for the USB-To-10Base-T1S Kit board.
+This folder contains details about software / drivers for the USB-To-10Base-T1S Kit board.
 
  ## [Installtion Windows](https://github.com/jpiwek/trustify/tree/master/software/example/win_install)
 
