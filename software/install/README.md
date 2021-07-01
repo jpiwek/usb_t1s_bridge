@@ -8,7 +8,7 @@ This folder contains details about software / drivers for the USB-To-10Base-T1S 
 
  ## [Installtion Windows](https://github.com/jpiwek/trustify/tree/master/software/example/win_install)
 
-1. Download and extract Windows Driver: [Link](driver/Windows_Driver_DRAFT.zip)
+1. Download and extract Windows Driver: [Link](../../driver/Windows_Driver_DRAFT.zip)
 2. To install the driver right click on "net9500-x64-n650f.inf" and "Install" 
 ![](images/win_install_1.png)
 3. Go to Control Panel -> Network and Internet ->Network Connections to configure the LAN876x Phy
