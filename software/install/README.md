@@ -19,8 +19,6 @@ This folder contains details about software / drivers for the USB-To-10Base-T1S 
 * Set 10BASE-T1S Local Node Id: 0
 * Set 10BASE-T1S Node Count: e.g. 4 (describes how many T1S device will be deployed on the Multidrop Bus)
 ![](images/win_install_6.png)
-6. 
-7. 
 8. Configure TCP/IP v4 setting by clicking
 
 
