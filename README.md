@@ -31,8 +31,7 @@ Single Pair Ethernet is the extension of Ethernet technology into sensor technol
 
 **Schematic**
 ------------------------
-[*Download*]("doc/Schematic_AIS20019 10BASE-T1S USB Interface Phoenix Contact_V1.0.0/00003919.pdf")
-[*Donwload*](Schematic_AIS20019 10BASE-T1S USB Interface Phoenix Contact_V1.0.0/00003919.pdf)
+[*Download*](doc/Schematic_AIS20019_10BASE-T1S_USB_Interface_Phoenix_Contact_V1.0.0.pdf)
 
 **Examples**
 ------------------------
