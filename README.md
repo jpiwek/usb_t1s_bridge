@@ -29,6 +29,10 @@ Single Pair Ethernet is the extension of Ethernet technology into sensor technol
   - Industrial Automation (Replace FieldBus, RS485, EtherCAT, Ethernet point-to-point)
   - Building Automation (Replace legacy “home grown” connections, Ethernet point-to-point, Lighting, Intercom, A/C, Window Shades, Elevators, etc.)
 
+**Schematic**
+------------------------
+[*Donwload*](Schematic_AIS20019 10BASE-T1S USB Interface Phoenix Contact_V1.0.0/00003919.pdf)
+
 **Examples**
 ------------------------
 All examples are built with ???. Those give you a good starting point for your own projects.
