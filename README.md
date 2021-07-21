@@ -1,5 +1,6 @@
 # Fast Track to Single-Pair-Ethernet enabled products with Arrow, Microchip & Phoenix Contact
 Product: USB-To-10Base-T1S Kit - (Manufactured by Trenz Elektronik)
+Drop me an email if you want to test this board: jpiwek@arroweurope.com
 
 **USB-To-T1S Bridge** - [Link](https://)
 ====================================================
