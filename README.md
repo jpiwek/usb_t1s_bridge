@@ -3,7 +3,7 @@ Product: USB-To-10Base-T1S Kit - (Manufactured by Trenz Elektronik)
 
 Drop me an email if you want to test this board it will be available on Arrow Testdrive soon: jpiwek@arroweurope.com
 
-**USB-To-T1S Bridge** - [Link](https://)
+**10BASE-T1S-to-USB Bridge** - [Link](https://)
 ====================================================
 
 **Story - New Ethernet PHYs Enable Multidrop Bus Architecture, Enhancing Industrial Networks’ Scalability and Functionality**
@@ -11,7 +11,7 @@ Drop me an email if you want to test this board it will be available on Arrow Te
 Arrow along with key partners in this sector, have developed a unique plug and play USB-To-Single Pair Ethernet Evaluation Kit. This kit is suitable for end applications such as Embedded PCs, Single Board Computers as well as Industrial applications to communicate SPE (10Base-T1S) and for fast evaluation of 10Base-T1S Multidrop Technology.
 10BASE-T1S refers to a 10 Mbit/s shared connection. It uses half-duplex data transmissions. Up to 50 nodes, depending on the environment, can be connected with a minimum 25m bus length. The technology is being developed as the IEEE 802.3cg standard, which envisions low power physical layer transceivers and a bus line connection without collisions
 
-![USB-To-T1S Bridge](images/onepager.png)
+![10BASE-T1S-to-USB Bridge](images/onepager.png)
 
 Kit Deliverables:
   - [*LAN867x: 10Base-T1S Phy*](doc/00003919.pdf)
