@@ -28,10 +28,7 @@ The board utilizes a Microchip LAN9500A to provide access to the 10BASE-T1S PHY 
   ## [Installtion Linux](https://github.com/jpiwek/trustify/tree/master/software/example/linux_install)
 
 1. The available Linux driver for 10BASE-T1S-To-USB media converter was tested on Raspberry PI 4 with Linux kernel 5.10.17-v7l.
-2. Download and extract Linux Driver: [Link](../../driver/20210730_Linux_10Base_T1S_To_USB.tar.gz)
-
-    ```wget -L https://github.com/jpiwek/usb_t1s_bridge/blob/main/driver/20210730_Linux_10Base_T1S_To_USB.tar.gz```
-  
+2. Download and extract Linux Driver: [Link](../../driver/20210730_Linux_10Base_T1S_To_USB.tar.gz)  
 3. Untar Linux compressed tar.gz archive 
 
     ```tar xzvf 20210730_Linux_10Base_T1S_To_USB.tar.gz```
