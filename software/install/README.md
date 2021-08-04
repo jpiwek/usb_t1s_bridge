@@ -1,4 +1,4 @@
-**USB-To-10Base-T1S Kit** - [Link](https://)
+**10BASE-To-T1S Bridge Kit** - [Link](https://)
 ====================================================
 
 # Software and Driver Installtion
