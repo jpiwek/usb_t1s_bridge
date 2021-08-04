@@ -5,6 +5,8 @@
 
 ## Introduction
 This folder contains details about software / drivers for the USB-To-10Base-T1S Kit board.
+This document describes the usage of the 10BASE-T1S-To-USB Media Converter with Windows and Linux operating systems.
+The board utilizes a Microchip LAN9500A to provide access to the 10BASE-T1S PHY LAN8670 via USB.
 
  ## [Installtion Windows](https://github.com/jpiwek/trustify/tree/master/software/example/win_install)
 
@@ -25,6 +27,32 @@ This folder contains details about software / drivers for the USB-To-10Base-T1S 
 
   ## [Installtion Linux](https://github.com/jpiwek/trustify/tree/master/software/example/linux_install)
 
-Lorem Ipsum
+1. The available Linux driver for 10BASE-T1S-To-USB media converter was tested on Raspberry PI 4 with Linux kernel 5.10.17-v7l.
+2. Download and extract Linux Driver: [Link](../../driver/20210730_Linux_10Base_T1S_To_USB.tar.gz)
+
+  ```wget -L https://github.com/jpiwek/usb_t1s_bridge/blob/main/driver/20210730_Linux_10Base_T1S_To_USB.tar.gz```
+  
+3. Untar Linux compressed tar.gz archive 
+
+  ```tar xzvf 20210730_Linux_10Base_T1S_To_USB.tar.gz```
+  
+4. go to t1s_20210730 and execute make
+
+  ```cd t1s-usb_20210730/ && make```
+  
+5. Now lets set up T1S specific settings for the PLCA Coordinator (Node ID 0) Node
+  The driver kernel objects lan8767x_phy.ko and smsc95xx_t1s.ko were built.
+  Now please attach the 10BASE-T1S USB Adapter to your Linux device.
+  To load the driver you can use the script file t1s.sh with the node ID (0..7) as parameter. It makes a new Ethernet Interface available "eth1"
+
+   5.1 Load driver for T1S Master with ID "0":
+  
+  ```sudo ./t1s.sh 0 ```
+  
+   5.2 Load driver for T1S Slave with ID "1..7":
+  
+  ```sudo ./t1s.sh 1 ```
+  
+6. Configure TCP/IP v4 settings
 
 ## The End
