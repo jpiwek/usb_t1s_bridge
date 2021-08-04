@@ -1,5 +1,5 @@
 # Fast Track to Single-Pair-Ethernet enabled products with Arrow, Microchip & Phoenix Contact
-Product: USB-To-10Base-T1S Kit - (Manufactured by Trenz Electronic GmbH)
+Product: 10BASE-T1S-to-USB Bridge Kit - (Manufactured by Trenz Electronic GmbH)
 
 Drop me an email if you want to test this board it will be available on Arrow Testdrive soon: jpiwek@arroweurope.com
 
@@ -14,7 +14,7 @@ Arrow along with key partners in this sector, have developed a unique plug and p
 ![10BASE-T1S-to-USB Bridge](images/onepager.png)
 
 Kit Deliverables:
-  - [*LAN867x: 10Base-T1S Phy*](doc/00003919.pdf)
+  - [*LAN867x: 10BASE-T1S Phy*](doc/00003919.pdf)
   - [*LAN9500AI: Single-chip, Hi-Speed USB 2.0 to 10/100 Ethernet controller*](https://www.microchip.com/wwwproducts/en/LAN9500A#additional-features)
   - [*IP20*: Phoenix Contact IEC63171-2 Connector](https://www.phoenixcontact.com/online/portal/at?1dmy&urile=wcm%3Apath%3A/atde/web/main/products/technology_pages/subcategory_pages/Single_pair_ethernet/52214e58-5f89-4493-b2fa-96873d7e97c3)
   - 1m SPE cable 1207744
