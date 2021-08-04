@@ -33,7 +33,7 @@ The board utilizes a Microchip LAN9500A to provide access to the 10BASE-T1S PHY 
 
     ```tar xzvf 20210730_Linux_10Base_T1S_To_USB.tar.gz```
   
-4. go to t1s_20210730 and execute make
+4. go to "t1s_20210730" folder and execute make
 
     ```cd t1s-usb_20210730/ && make```
   
