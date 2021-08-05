@@ -8,7 +8,7 @@ This folder contains details about software / drivers for the USB-To-10Base-T1S 
 This document describes the usage of the 10BASE-T1S-To-USB Media Converter with Windows and Linux operating systems.
 The board utilizes a Microchip LAN9500A to provide access to the 10BASE-T1S PHY LAN8670 via USB.
 
- ## [Installtion Windows](https://github.com/jpiwek/trustify/tree/master/software/example/win_install)
+ ## [Installation Windows](https://github.com/jpiwek/trustify/tree/master/software/example/win_install)
 
 1. Download and extract Windows Driver: [Link](../../driver/Windows_Driver_DRAFT.zip)
 2. To install the driver right click on "net9500-x64-n650f.inf" and "Install" 
@@ -25,7 +25,7 @@ The board utilizes a Microchip LAN9500A to provide access to the 10BASE-T1S PHY 
 
 
 
-  ## [Installtion Linux](https://github.com/jpiwek/trustify/tree/master/software/example/linux_install)
+  ## [Installation Linux](https://github.com/jpiwek/trustify/tree/master/software/example/linux_install)
 
 1. The available Linux driver for 10BASE-T1S-To-USB media converter was tested on Raspberry PI 4 with Linux kernel 5.10.17-v7l.
 2. Download and extract Linux Driver: [Link](../../driver/20210730_Linux_10Base_T1S_To_USB.tar.gz)  
