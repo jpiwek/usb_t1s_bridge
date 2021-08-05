@@ -38,8 +38,8 @@ Single Pair Ethernet is the extension of Ethernet technology into sensor technol
 **Examples**
 ------------------------
 All examples are built with ???. Those give you a good starting point for your own projects.
-  - "Getting Started for Windows": [Go to example](https://github.com/jpiwek/usb_t1s_bridge/tree/main/software/install/README.md#installtion-windows)
-  - "Getting Started for Linux":  [Go to example](https://github.com/jpiwek/usb_t1s_bridge/tree/main/software/install/README.md#installtion-linux)
+  - "Getting Started for Windows": [Go to example](https://github.com/jpiwek/usb_t1s_bridge/tree/main/software/install/README.md#installation-windows)
+  - "Getting Started for Linux":  [Go to example](https://github.com/jpiwek/usb_t1s_bridge/tree/main/software/install/README.md#installation-linux)
 
 To install drivers for Windows and Linux systems, please go [here](https://github.com/jpiwek/usb_t1s_bridge/tree/main/software/install/README.md)
 
