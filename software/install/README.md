@@ -10,7 +10,7 @@ The board utilizes a Microchip LAN9500A to provide access to the 10BASE-T1S PHY 
 
  ## [Installation Windows](https://github.com/jpiwek/trustify/tree/master/software/example/win_install)
 
-1. Download and extract Windows Driver: [Link](../../driver/Windows_Driver_DRAFT.zip)
+1. Download and extract Windows Driver: [Click here](../../driver/Windows_Driver_DRAFT.zip)
 2. To install the driver right click on "net9500-x64-n650f.inf" and "Install" 
 ![](images/win_install_1.png)
 3. Go to Control Panel -> Network and Internet ->Network Connections to configure the LAN876x Phy
@@ -28,7 +28,7 @@ The board utilizes a Microchip LAN9500A to provide access to the 10BASE-T1S PHY 
   ## [Installation Linux](https://github.com/jpiwek/trustify/tree/master/software/example/linux_install)
 
 1. The available Linux driver for 10BASE-T1S-To-USB media converter was tested on Raspberry PI 4 with Linux kernel 5.10.17-v7l.
-2. Download and extract Linux Driver: [Link](../../driver/20210730_Linux_10Base_T1S_To_USB.tar.gz)  
+2. Download and extract Linux Driver: [Click here](../../driver/20210730_Linux_10Base_T1S_To_USB.tar.gz)  
 3. Untar Linux compressed tar.gz archive 
 
     ```tar xzvf 20210730_Linux_10Base_T1S_To_USB.tar.gz```
