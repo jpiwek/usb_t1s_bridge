@@ -10,7 +10,7 @@ The board utilizes a Microchip LAN9500A to provide access to the 10BASE-T1S PHY 
 
  ## [Installation Windows](https://github.com/jpiwek/trustify/tree/master/software/example/win_install)
 
-1. Download and extract Windows Driver: [Click here](../../driver/Windows_Driver_DRAFT.zip)
+1. Download and extract Windows Driver: [Click here](../../driver/EVB-LAN8670-USB-Win10-Driver-V02-23-04.zip)
 2. To install the driver right click on "net9500-x64-n650f.inf" and "Install" 
 ![](images/win_install_1.png)
 3. Go to Control Panel -> Network and Internet ->Network Connections to configure the LAN876x Phy
